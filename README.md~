@@ -1,0 +1,4 @@
+Using g++-6 compiler 
+Trying to build a pairing heap which is compatible with the stl libraries
+So that we an perform find(begin(heapvar) , end(heapvar) , tofindkey)
+So trying to implement iterators
